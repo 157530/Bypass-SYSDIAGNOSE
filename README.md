@@ -1,4 +1,5 @@
 Remote SYSDIAGNOSE Modifier 📲
+
 Este projeto permite alterar arquivos .tar do iCloud Drive remotamente usando um dispositivo Android.
 Como funciona
 1. O script monitora o iCloud Drive e baixa o arquivo .tar.gz quando ele aparece.
